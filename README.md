@@ -13,7 +13,7 @@ Repozitár je určený na overovanie:
 - DELETE požiadaviek cez GitHub Contents API
 - sťahovania súborov cez raw URL
 
-## 1. Overenie curl vo Windows 11
+## 1. Overenie curl vo Microsfot Windows 8/10/11
 
 V PowerShelli odporúčame používať `curl.exe`:
 
