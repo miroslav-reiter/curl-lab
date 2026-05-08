@@ -1,0 +1,5 @@
+Toto je jednoduchý textový súbor na testovanie sťahovania cez curl.
+
+Skúšobný príkaz:
+
+curl.exe -L -o sample.txt https://raw.githubusercontent.com/miroslav-reiter/curl-lab/main/data/sample.txt

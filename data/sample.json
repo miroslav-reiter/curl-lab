@@ -1,0 +1,23 @@
+{
+  "project": "curl-lab",
+  "author": "Miroslav Reiter",
+  "purpose": "Testovanie curl prikazov vo Windows 11",
+  "version": "1.0.0",
+  "items": [
+    {
+      "id": 1,
+      "name": "GET test",
+      "method": "GET"
+    },
+    {
+      "id": 2,
+      "name": "POST test",
+      "method": "POST"
+    },
+    {
+      "id": 3,
+      "name": "PATCH test",
+      "method": "PATCH"
+    }
+  ]
+}
